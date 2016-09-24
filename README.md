@@ -34,13 +34,13 @@
 　　
 安装步骤
 ---------------
-1.安装Node.js
-2.安装git
-3.安装Yeoman
-  npm install -g yo grunt-cli bower
-4.安装generator
-  在终端命令行中输入yo命令，然后用上下键控制选择install a generator，然后选择webapp
-  也可以直接在命令行中输入 mpm install -global generator-webapp(以webapp为例)
+        1.安装Node.js
+        2.安装git
+        3.安装Yeoman
+            npm install -g yo grunt-cli bower
+        4.安装generator
+        在终端命令行中输入yo命令，然后用上下键控制选择install a generator，然后选择webapp
+        也可以直接在命令行中输入 mpm install -global generator-webapp(以webapp为例)
   
 =============================
 
