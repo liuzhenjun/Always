@@ -1,4 +1,5 @@
 # Yeoman的使用
+
 =============================
     该文件是用来介绍yeoman工具，他的目标是通过grunt或gulp和bower等各种工具来为开发者创建一个易用的工作流。
     而且Yeoman的目的不仅是要为新项目建立工作流，同时还是为了解决前端开发面临的零散的依赖关系。
@@ -50,6 +51,7 @@
 ============================
 
 开发实例
+代码所在地址：https://github.com/liuzhenjun/yeoman-bootstrap
 ---------------
 
      ##Yeoman搭建一个gulp+sass+bootstrap的pc端项目
