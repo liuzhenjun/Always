@@ -64,16 +64,16 @@ Yeoman-bootstrap
      6.项目开发完成后，我们在终端使用gulp build命令对项目进行构建，此时，在工作目录下会自动生成dist文件夹，dist文件夹里的项目就是我们最终需要提交的项目。
     
 Yeoman-AngularJS
-代码所在地址：https://github.com/liuzhenjun/yeoman-bootstrap
+代码所在地址：
 ---------------
 
      ##Yeoman搭建一个Yeoman+AngularJS+gulp的web应用
      1.创建一个工作目录，用于存放Angular项目，并从终端进入
      2.在终端分别安装工具和项目发生器，命令分别为:npm install -global yo bower grunt-cli gulp, npm install -global generator-angular
-     3.在终端输入yo webapp，进行项目的创建，然后通过上下键控制选择bootstrap
-     4.在生成的项目文件里，我们进入app文件，在本文件下，我们进行项目的开发
-     5.在终端使用gulp server 命令打开浏览器进行预览，yeoman已经自动帮我们创建好了gulp工具，server服务器启动后会自动对我们的app里的代码进行监听，如果我们修改代码，浏览器会自动刷新。
-     6.项目开发完成后，我们在终端使用gulp build命令对项目进行构建，此时，在工作目录下会自动生成dist文件夹，dist文件夹里的项目就是我们最终需要提交的项目。
+     3.
+     4.
+     5.
+     6.
 
 ============================
 
