@@ -51,7 +51,8 @@
 ============================
 
 开发实例
-Yeoman-bootstrap(代码所在地址：https://github.com/liuzhenjun/yeoman-bootstrap)
+Yeoman-bootstrap
+代码所在地址：https://github.com/liuzhenjun/yeoman-bootstrap
 ---------------
 
      ##Yeoman搭建一个gulp+sass+bootstrap的pc端项目
@@ -62,7 +63,8 @@ Yeoman-bootstrap(代码所在地址：https://github.com/liuzhenjun/yeoman-boots
      5.在终端使用gulp server 命令打开浏览器进行预览，yeoman已经自动帮我们创建好了gulp工具，server服务器启动后会自动对我们的app里的代码进行监听，如果我们修改代码，浏览器会自动刷新。
      6.项目开发完成后，我们在终端使用gulp build命令对项目进行构建，此时，在工作目录下会自动生成dist文件夹，dist文件夹里的项目就是我们最终需要提交的项目。
     
-Yeoman-AngularJS(代码所在地址：https://github.com/liuzhenjun/yeoman-bootstrap)
+Yeoman-AngularJS
+代码所在地址：https://github.com/liuzhenjun/yeoman-bootstrap
 ---------------
 
      ##Yeoman搭建一个Yeoman+AngularJS+gulp的web应用
